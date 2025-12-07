@@ -1,13 +1,17 @@
-Hello! Here will be presented Online And Desktop version of Just Merge PDF program!
+# Just Merge PDF
+**Hello! Here will be presented Online And Desktop version of Just Merge PDF program!**
 
-#Requirements:
+## **Requirements:**
 pypdf
 
-#Console-Version test:
+## **Console-Version**
+**test:**
 Provide as names of PDFs to merge:
-"test-data\Page_2.pdf,test-data\Page_1.pdf,test-data\Page_3.pdf,Sort"
-Or
-"test-data\Page_1.pdf,test-data\Page_2.pdf,test-data\Page_3.pdf"
-
+*"test-data\Page_2.pdf,test-data\Page_1.pdf,test-data\Page_3.pdf,Sort"*
+or
+*"test-data\Page_1.pdf,test-data\Page_2.pdf,test-data\Page_3.pdf"*
 And as name of output PDF:
-"test"
+*"test"*
+
+## **Web Version**
+Available at the: [JMPDF](https://web-version-qqjchz6cedretalill5row.streamlit.app/)
