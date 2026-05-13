@@ -7,10 +7,10 @@ pypdf
 ## **Console-Version**
 **test:**
 Provide as names of PDFs to merge:</br>
-*"test-data\Page_2.pdf,test-data\Page_1.pdf,test-data\Page_3.pdf,Sort"*
-or
-*"test-data\Page_1.pdf,test-data\Page_2.pdf,test-data\Page_3.pdf"*
-And as name of output PDF:
+*"test-data\Page_2.pdf,test-data\Page_1.pdf,test-data\Page_3.pdf,Sort"*</br>
+or</br>
+*"test-data\Page_1.pdf,test-data\Page_2.pdf,test-data\Page_3.pdf"*</br>
+And as name of output PDF:</br>
 *"test"*
 
 ## **Web Version**
